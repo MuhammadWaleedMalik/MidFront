@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "explore": "Entdecken",
+    "pricing": "Preise",
+    "gallery": "Galerie",
+    "aiFeatures": "KI-Funktionen",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "Spielcharaktere",
+    "avatars": "Avatare",
+    "aiGeneratedImages": "KI-generierte Bilder",
+    "bookCovers": "Buchcover",
+    "moviePosters": "Filmplakate"
+  },
+  "home": {
+    "hero": {
+      "title": "Erstellen Sie atemberaubende KI-generierte Bilder",
+      "subtitle": "Verwandeln Sie Ihre Ideen mit unserem KI-Bildgenerator in wunderschöne Kunstwerke",
+      "cta": "Loslegen"
+    },
+    "features": {
+      "title": "Entfesseln Sie Ihre Kreativität",
+      "subtitle": "Erstellen Sie alles, was Sie sich mit einfachen Textaufforderungen vorstellen können"
+    }
+  },
+  "explore": {
+    "title": "Entdecken",
+    "trending": "Im Trend",
+    "recent": "Neueste",
+    "popular": "Beliebt"
+  },
+  "auth": {
+    "email": "E-Mail",
+    "password": "Passwort",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "forgotPassword": "Passwort vergessen?",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "dontHaveAccount": "Haben Sie noch kein Konto?"
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "careers": "Karriere",
+    "blog": "Blog",
+    "legal": "Rechtliches",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz",
+    "copyright": "© 2025 Midjourney-Klon. Alle Rechte vorbehalten."
+  },
+  "language": "Sprache"
+}

@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "explore": "Explorer",
+    "pricing": "Tarifs",
+    "gallery": "Galerie",
+    "aiFeatures": "Fonctionnalités IA",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "logout": "Déconnexion"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "Personnages de Jeux",
+    "avatars": "Avatars",
+    "aiGeneratedImages": "Images Générées par IA",
+    "bookCovers": "Couvertures de Livres",
+    "moviePosters": "Affiches de Films"
+  },
+  "home": {
+    "hero": {
+      "title": "Créez des images étonnantes générées par IA",
+      "subtitle": "Transformez vos idées en œuvres d'art magnifiques avec notre générateur d'images IA",
+      "cta": "Commencer"
+    },
+    "features": {
+      "title": "Libérez votre créativité",
+      "subtitle": "Créez tout ce que vous pouvez imaginer avec de simples instructions textuelles"
+    }
+  },
+  "explore": {
+    "title": "Explorer",
+    "trending": "Tendances",
+    "recent": "Récents",
+    "popular": "Populaires"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "forgotPassword": "Mot de passe oublié ?",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?"
+  },
+  "footer": {
+    "company": "Entreprise",
+    "about": "À propos",
+    "careers": "Carrières",
+    "blog": "Blog",
+    "legal": "Mentions légales",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "copyright": "© 2025 Clone de Midjourney. Tous droits réservés."
+  },
+  "language": "Langue"
+}

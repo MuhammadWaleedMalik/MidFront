@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "首页",
+    "explore": "探索",
+    "pricing": "价格",
+    "gallery": "画廊",
+    "aiFeatures": "AI功能",
+    "login": "登录",
+    "signup": "注册",
+    "logout": "登出"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "游戏角色",
+    "avatars": "头像",
+    "aiGeneratedImages": "AI生成图像",
+    "bookCovers": "书籍封面",
+    "moviePosters": "电影海报"
+  },
+  "home": {
+    "hero": {
+      "title": "创建令人惊叹的AI生成图像",
+      "subtitle": "使用我们的AI图像生成器将您的想法转化为精美的艺术作品",
+      "cta": "开始使用"
+    },
+    "features": {
+      "title": "释放您的创造力",
+      "subtitle": "通过简单的文本提示创建您能想象的任何东西"
+    }
+  },
+  "explore": {
+    "title": "探索",
+    "trending": "趋势",
+    "recent": "最新",
+    "popular": "热门"
+  },
+  "auth": {
+    "email": "电子邮件",
+    "password": "密码",
+    "login": "登录",
+    "signup": "注册",
+    "forgotPassword": "忘记密码？",
+    "alreadyHaveAccount": "已有账户？",
+    "dontHaveAccount": "没有账户？"
+  },
+  "footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "careers": "招聘",
+    "blog": "博客",
+    "legal": "法律",
+    "terms": "条款",
+    "privacy": "隐私",
+    "copyright": "© 2025 Midjourney克隆版。保留所有权利。"
+  },
+  "language": "语言"
+}

@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Domus",
+    "explore": "Explorare",
+    "pricing": "Pretium",
+    "gallery": "Pinacotheca",
+    "aiFeatures": "Functiones IA",
+    "login": "Intrare",
+    "signup": "Inscribere",
+    "logout": "Exire"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "Personae Ludorum",
+    "avatars": "Simulacra",
+    "aiGeneratedImages": "Imagines IA Generatae",
+    "bookCovers": "Tegumenta Librorum",
+    "moviePosters": "Tabellae Pellicularum"
+  },
+  "home": {
+    "hero": {
+      "title": "Crea imagines mirabiles IA generatas",
+      "subtitle": "Converte ideas tuas in opera artis pulchra cum generatore nostro imaginum IA",
+      "cta": "Incipere"
+    },
+    "features": {
+      "title": "Libera creativitatem tuam",
+      "subtitle": "Crea quidquid imaginari potes cum simplicibus textus promptis"
+    }
+  },
+  "explore": {
+    "title": "Explorare",
+    "trending": "Popularia",
+    "recent": "Recentia",
+    "popular": "Celebria"
+  },
+  "auth": {
+    "email": "Epistula electronica",
+    "password": "Tessera",
+    "login": "Intrare",
+    "signup": "Inscribere",
+    "forgotPassword": "Tesseram oblitus es?",
+    "alreadyHaveAccount": "Iam habes rationem?",
+    "dontHaveAccount": "Non habes rationem?"
+  },
+  "footer": {
+    "company": "Societas",
+    "about": "De Nobis",
+    "careers": "Cursus Honorum",
+    "blog": "Commentarii",
+    "legal": "Legalia",
+    "terms": "Condiciones",
+    "privacy": "Privatum",
+    "copyright": "© 2025 Midjourney Simulacrum. Omnia iura reservata."
+  },
+  "language": "Lingua"
+}

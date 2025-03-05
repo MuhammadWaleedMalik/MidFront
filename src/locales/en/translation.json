@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "pricing": "Pricing",
+    "gallery": "Gallery",
+    "aiFeatures": "AI Features",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logout": "Log Out"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "Gaming Characters",
+    "avatars": "Avatars",
+    "aiGeneratedImages": "AI Generated Images",
+    "bookCovers": "Book Covers",
+    "moviePosters": "Movie Posters"
+  },
+  "home": {
+    "hero": {
+      "title": "Create stunning AI-generated images",
+      "subtitle": "Transform your ideas into beautiful artwork with our AI image generator",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "Unleash your creativity",
+      "subtitle": "Create anything you can imagine with simple text prompts"
+    }
+  },
+  "explore": {
+    "title": "Explore",
+    "trending": "Trending",
+    "recent": "Recent",
+    "popular": "Popular"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About",
+    "careers": "Careers",
+    "blog": "Blog",
+    "legal": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "copyright": "© 2025 Midjourney Clone. All rights reserved."
+  },
+  "language": "Language"
+}

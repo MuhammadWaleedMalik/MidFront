@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Verkennen",
+    "pricing": "Prijzen",
+    "gallery": "Galerij",
+    "aiFeatures": "AI-functies",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "logout": "Uitloggen"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "Gamingkarakters",
+    "avatars": "Avatars",
+    "aiGeneratedImages": "Door AI gegenereerde afbeeldingen",
+    "bookCovers": "Boekomslagen",
+    "moviePosters": "Filmposters"
+  },
+  "home": {
+    "hero": {
+      "title": "Maak verbluffende AI-gegenereerde afbeeldingen",
+      "subtitle": "Transformeer je ideeën in prachtige kunstwerken met onze AI-beeldgenerator",
+      "cta": "Aan de slag"
+    },
+    "features": {
+      "title": "Ontgrendel je creativiteit",
+      "subtitle": "Creëer alles wat je kunt bedenken met eenvoudige tekstopdrachten"
+    }
+  },
+  "explore": {
+    "title": "Verkennen",
+    "trending": "Trending",
+    "recent": "Recent",
+    "popular": "Populair"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "alreadyHaveAccount": "Heb je al een account?",
+    "dontHaveAccount": "Heb je nog geen account?"
+  },
+  "footer": {
+    "company": "Bedrijf",
+    "about": "Over ons",
+    "careers": "Carrières",
+    "blog": "Blog",
+    "legal": "Juridisch",
+    "terms": "Voorwaarden",
+    "privacy": "Privacy",
+    "copyright": "© 2025 Midjourney Kloon. Alle rechten voorbehouden."
+  },
+  "language": "Taal"
+}

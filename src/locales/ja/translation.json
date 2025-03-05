@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "explore": "探索",
+    "pricing": "料金",
+    "gallery": "ギャラリー",
+    "aiFeatures": "AI機能",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "aiFeatures": {
+    "gamingCharacters": "ゲームキャラクター",
+    "avatars": "アバター",
+    "aiGeneratedImages": "AI生成画像",
+    "bookCovers": "書籍カバー",
+    "moviePosters": "映画ポスター"
+  },
+  "home": {
+    "hero": {
+      "title": "AIで生成された素晴らしい画像を作成",
+      "subtitle": "私たちのAI画像ジェネレーターであなたのアイデアを美しいアートワークに変換",
+      "cta": "始める"
+    },
+    "features": {
+      "title": "あなたの創造性を解き放つ",
+      "subtitle": "シンプルなテキストプロンプトであなたが想像できるものを何でも作成"
+    }
+  },
+  "explore": {
+    "title": "探索",
+    "trending": "トレンド",
+    "recent": "最近",
+    "popular": "人気"
+  },
+  "auth": {
+    "email": "メール",
+    "password": "パスワード",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+    "dontHaveAccount": "アカウントをお持ちでないですか？"
+  },
+  "footer": {
+    "company": "会社",
+    "about": "会社概要",
+    "careers": "採用情報",
+    "blog": "ブログ",
+    "legal": "法的情報",
+    "terms": "利用規約",
+    "privacy": "プライバシー",
+    "copyright": "© 2025 Midjourneyクローン。全著作権所有。"
+  },
+  "language": "言語"
+}

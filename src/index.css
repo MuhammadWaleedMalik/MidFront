@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-bg: #0E1525;
+  --secondary-bg: #1E293B;
+  --accent: #5965F3;
+  --accent-light: #7984F5;
+  --text-primary: #FFFFFF;
+  --text-secondary: #94A3B8;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--primary-bg);
+  color: var(--text-primary);
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-accent hover:bg-accent-light text-white font-medium py-2 px-4 rounded-md transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary hover:bg-opacity-80 text-white font-medium py-2 px-4 rounded-md transition-colors;
+  }
+  
+  .card {
+    @apply bg-secondary rounded-xl overflow-hidden shadow-lg;
+  }
+  
+  .nav-link {
+    @apply text-text-secondary hover:text-white transition-colors;
+  }
+  
+  .nav-link-active {
+    @apply text-white font-medium;
+  }
+  
+  .dropdown-menu {
+    @apply absolute right-0 mt-2 w-48 bg-secondary rounded-md shadow-lg z-50;
+  }
+  
+  .dropdown-item {
+    @apply block px-4 py-2 text-sm text-text-secondary hover:text-white hover:bg-primary transition-colors;
+  }
+}
